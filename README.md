@@ -3,4 +3,4 @@ hence when i saw the visual style i had to make something of it.
 
 its a pity about marathon 2025 though.
 
-[<img src="promores/default.png" width="600" />](promores/default.png)
+[<img src="promores/default.png" width="800" />](promores/default.png)
